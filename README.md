@@ -1,6 +1,8 @@
 # SortingVisulizer
 The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+This app is ready to be deployed!
+
+Made with by ❤️❤️ AYUSH(me)
 
 See the section about deployment for more information.
 
